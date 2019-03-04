@@ -1,4 +1,4 @@
 # AllAndroidPractics
-Found adroid practics:
+Found android practics:
 
 AllAndroidPractics/app/src/main/java/com/example/myapplication/
